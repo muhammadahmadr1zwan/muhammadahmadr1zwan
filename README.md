@@ -1,77 +1,67 @@
-# 👋 Hey, I'm Muhammad Ahmad Rizwan
+<h1 align="center">Hi 👋, I'm Muhammad Ahmad Rizwan</h1>
+<h3 align="center">A passionate full-stack developer & data enthusiast from Indiana</h3>
 
-🚀 Computer Science Honors student @ Purdue University Indianapolis (Minor in Math)  
-🎓 GPA: **3.73** | 4x Dean’s List  
-💼 Aspiring Software Engineer | Passionate about backend systems, AI, and real-world impact.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student+@+Purdue;Full+Stack+Dev+%7C+Data+Science+Intern;Spring+Boot+%7C+Kotlin+%7C+React+Lover&center=true&width=500&height=45">
+</p>
 
----
+<p align="center">
+  <a href="https://linkedin.com/in/muhammad-ahmad-rizwan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ahmadzainab@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Outlook-darkblue?logo=microsoftoutlook&logoColor=white" />
+  </a>
+  <a href="https://github.com/muhammadahmadr1zwan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" />
+  </a>
+</p>
 
-## 🛠️ Tech Stack
+## 💫 About Me
 
-**Languages**: Java, Python, Kotlin, JavaScript, SQL  
-**Frameworks/Libraries**: Spring Boot, React, Firebase, NumPy, Pandas  
-**Tools**: Git, Docker, Jupyter, Databricks, Linux, PostgreSQL
+- 🎓 Honors CS Student @ Purdue University Indianapolis  
+- 🔭 Currently working on: **Prayer Times App**  
+- 🌱 Learning: **Spring Security, Docker, AI Ethics**  
+- 💬 Ask me about: Spring Boot, Kotlin, Data Science, ML  
+- ⚡ Fun fact: I love combining dev and design to solve real problems!
 
----
+## 🚀 Tech Stack
 
-## 💼 Experience
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+</p>
 
-### 🧩 Software Engineer Intern – Interlinked Corp _(Mar 2025 – Present)_
-- Debugged and optimized a disaster response platform’s UI with React
-- Synced disaster datasets between frontend and APIs for real-time reliability
+## 📊 GitHub Stats
 
-### 🌐 Software Integration Intern – Donate Equity _(May – Aug 2025)_
-- Built API integrations for a SaaS donation platform supporting nonprofits
-- Streamlined CRM workflows and participated in agile demos
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadahmadr1zwan&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadahmadr1zwan&theme=tokyonight" />
+</p>
 
-### 📊 Data Science Intern – Cummins x The Data Mine _(Aug 2024 – May 2025)_
-- Cleaned and analyzed large engine datasets using Python + SQL in Databricks
-- Delivered insights to Cummins with a 9-member research team
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadahmadr1zwan&theme=darkhub&row=1&column=6" />
+</p>
 
----
+## 📂 Featured Projects
 
-## 📱 Notable Projects
+- 🕌 [Prayer Times App](https://github.com/muhammadahmadr1zwan/PrayerTimesApp)  
+  Java, Kotlin, Spring Boot — real-time prayer times for local masjid
 
-### 🕌 [Prayer Times App](https://github.com/muhammadahmadr1zwan/PrayerTimesApp)
-**Java, Kotlin, Spring Boot, Docker**  
-- Full-stack app with Adhan API and Jetpack Compose UI
-- Empowered 1,500+ users with precise prayer times for a local masjid
+- 📰 [Fake or Factual](https://github.com/muhammadahmadr1zwan/Fake-or-Factual-AI-Powered-Misinformation-Detection)  
+  Python, BERT, Streamlit — detecting fake news with transformers
 
-### 📰 [Fake or Factual: Misinformation Detection](https://github.com/muhammadahmadr1zwan/Fake-or-Factual-AI-Powered-Misinformation-Detection)
-**Python, NLP, BERT**  
-- Built transformer-based fake news classifier  
-- Visualized results using Streamlit + explainable AI tools
+- ✈️ [Plane Crash Analysis](https://github.com/muhammadahmadr1zwan/PlaneCrashDataAnalysisProject)  
+  R, ggplot2 — 50+ years of aviation data visualized
 
-### ✈️ [Plane Crash Data Analysis](https://github.com/muhammadahmadr1zwan/PlaneCrashDataAnalysisProject)
-**R, ggplot2**  
-- Analyzed 50 years of aviation crashes  
-- Created visual reports on fatality patterns and safety insights
-
----
-
-## 🧠 Education & Certifications
-
-🎓 **Purdue University Indianapolis**  
-_B.S. in Computer Science (Honors), Minor in Math_  
-- Artificial Intelligence & Data Science Certificates  
-- Relevant coursework: AI, Operating Systems, Data Science  
-
----
-
-## 🌱 Currently Learning
-
-- Spring Security & OAuth
-- Docker & Scalable backend deployment
-- AI ethics and explainable ML models
-
----
-
-## 🤝 Let’s Connect
-
-📧 [ahmadzainab@outlook.com](mailto:ahmadzainab@outlook.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-ahmad-rizwan)  
-💻 [GitHub](https://github.com/muhammadahmadr1zwan)
-
----
-
-_“Code with purpose. Build with passion.”_
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammadahmadr1zwan&style=flat-square&color=blue" alt="profile views" />
+</p>
