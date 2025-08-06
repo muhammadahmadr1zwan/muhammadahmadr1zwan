@@ -33,10 +33,10 @@ I’m driven by clarity, function, and real-world usefulness.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="Matplotlib" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="30" alt="Scikit-learn" />
-
-  <!-- Database -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
+  
+  <!-- Custom Scikit-learn Logo -->
+  <img src="https://raw.githubusercontent.com/muhammadahmadr1zwan/muhammadahmadr1zwan/main/assets/scikit-learn.png" height="30" alt="Scikit-learn" />
 </p>
 
 ---
@@ -89,7 +89,7 @@ Analyzed 50 years of global aviation crashes using R and ggplot2 visualizations
   </a>
   &nbsp;&nbsp;
   <a href="mailto:ahmadzainab@outlook.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="24" />
+    <img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019.png" alt="Outlook Email" height="24" />
   </a>
 </p>
 
