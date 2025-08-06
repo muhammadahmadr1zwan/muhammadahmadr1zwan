@@ -60,8 +60,12 @@ Analyzed 50 years of global aviation crashes using R and ggplot2 visualizations
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadahmadr1zwan&show_icons=true&theme=neutral&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadahmadr1zwan&theme=neutral&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadahmadr1zwan&show_icons=true&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadahmadr1zwan&theme=github-dark&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadahmadr1zwan&layout=compact&theme=github_dark&hide_border=true" height="130"/>
 </p>
 
 ---
