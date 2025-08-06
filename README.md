@@ -35,8 +35,6 @@ I’m driven by clarity, function, and real-world usefulness.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="Matplotlib" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
   
-  <!-- Custom Scikit-learn Logo -->
-  <img src="[https://raw.githubusercontent.com/muhammadahmadr1zwan/muhammadahmadr1zwan/main/assets/scikit-learn.png](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1920px-Scikit_learn_logo_small.svg.png)" height="30" alt="Scikit-learn" />
 </p>
 
 ---
